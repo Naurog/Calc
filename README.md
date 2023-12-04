@@ -30,5 +30,3 @@
 - https://www.pngegg.com/en/search?q=female+
 
 [Code of Conduct](CODE_OF_CONDUCT.md) | [LICENSE](LICENSE)
-
-Give some stars folks :)
